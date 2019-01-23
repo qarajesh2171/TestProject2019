@@ -17,5 +17,7 @@ WebUI.openBrowser('www.greendesk.in')
 
 WebUI.verifyTextPresent('Healthy Greens On Your', false)
 
+WebUI.verifyAlertNotPresent(1)
+
 WebUI.closeBrowser()
 

@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite 1,Chrome 71.0.3578.98,,2019-01-23 14:49:19,2019-01-23 14:49:33,13.440s,PASSED
+,,,,,,
+Test Cases/New Test Case 1,Chrome 71.0.3578.98,,2019-01-23 14:49:20,2019-01-23 14:49:33,13.173s,PASSED
+"openBrowser(""www.greendesk.in"")",Chrome 71.0.3578.98,,2019-01-23 14:49:20,2019-01-23 14:49:32,11.998s,PASSED
+closeBrowser(),Chrome 71.0.3578.98,,2019-01-23 14:49:32,2019-01-23 14:49:33,0.636s,PASSED

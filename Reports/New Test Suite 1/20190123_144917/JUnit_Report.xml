@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite 1" time="13" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite 1" tests="1" failures="0" errors="0" time="13" timestamp="2019-01-23 14:49:19" hostname="DESKTOP-3INA7A3$ - DESKTOP-3INA7A3" id="Test Suites/New Test Suite 1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\viva\\git\\TestProject2020\\TestProject2019\\Reports\\New Test Suite 1\\20190123_144917"/>
+         <property name="logFiles" value="C:\\Users\\viva\\git\\TestProject2020\\TestProject2019\\Reports\\New Test Suite 1\\20190123_144917\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="DESKTOP-3INA7A3$ - DESKTOP-3INA7A3"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.1.1"/>
+         <property name="browser" value="Chrome 71.0.3578.98"/>
+         <property name="hostAddress" value="192.168.1.48"/>
+         <property name="sessionId" value="dfcb373d5a5cd15a5669c4118f9dc399"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case 1" classname="Test Cases/New Test Case 1" status="PASSED">
+         <system-out><![CDATA[2019-01-23 14:49:20 - [TEST_CASE][PASSED] - Test Cases/New Test Case 1: Test Cases/New Test Case 1
+
+2019-01-23 14:49:20 - [TEST_STEP][PASSED] - openBrowser("www.greendesk.in"): Browser is opened with url: 'www.greendesk.in'
+
+2019-01-23 14:49:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-01-23 14:49:21 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-01-23 14:49:32 - [MESSAGE][PASSED] - Browser is opened with url: 'www.greendesk.in'
+
+2019-01-23 14:49:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-01-23 14:49:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-01-23 14:49:19 - [TEST_SUITE][PASSED] - New Test Suite 1: Test Cases/New Test Case 1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
