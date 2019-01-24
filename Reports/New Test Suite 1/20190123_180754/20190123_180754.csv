@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite 1,Chrome 71.0.3578.98,,2019-01-23 18:08:00,2019-01-23 18:12:03,4m - 2.884s,ERROR
+,,,,,,
+Test Cases/New Test Case 2,Chrome 71.0.3578.98,,2019-01-23 18:08:01,2019-01-23 18:10:14,2m - 13.274s,ERROR
+"openBrowser(""www.greendesk.in"")",Chrome 71.0.3578.98,,2019-01-23 18:08:01,2019-01-23 18:09:00,58.897s,PASSED
+"click(findTestObject(""Page_GreenDesk/img_items in MyBasket""))",Chrome 71.0.3578.98,,2019-01-23 18:09:00,2019-01-23 18:10:13,1m - 12.721s,PASSED
+"click(findTestObject(""Page_GreenDesk/a_CONTACT US""))",Chrome 71.0.3578.98,,2019-01-23 18:10:13,2019-01-23 18:10:14,1.212s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_name""), Fullname)",Chrome 71.0.3578.98,,2019-01-23 18:10:14,2019-01-23 18:10:14,0.053s,ERROR
+,,,,,,
+Test Cases/New Test Case 2,Chrome 71.0.3578.98,,2019-01-23 18:10:14,2019-01-23 18:11:52,1m - 37.862s,ERROR
+"openBrowser(""www.greendesk.in"")",Chrome 71.0.3578.98,,2019-01-23 18:10:14,2019-01-23 18:10:53,39.407s,PASSED
+"click(findTestObject(""Page_GreenDesk/img_items in MyBasket""))",Chrome 71.0.3578.98,,2019-01-23 18:10:53,2019-01-23 18:11:51,57.249s,PASSED
+"click(findTestObject(""Page_GreenDesk/a_CONTACT US""))",Chrome 71.0.3578.98,,2019-01-23 18:11:51,2019-01-23 18:11:52,1.181s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_name""), Fullname)",Chrome 71.0.3578.98,,2019-01-23 18:11:52,2019-01-23 18:11:52,0.005s,ERROR
+,,,,,,
+Test Cases/New Test Case 2,Chrome 71.0.3578.98,,2019-01-23 18:11:52,2019-01-23 18:11:55,3.472s,FAILED
+"openBrowser(""www.greendesk.in"")",Chrome 71.0.3578.98,,2019-01-23 18:11:52,2019-01-23 18:11:55,3.458s,FAILED
+,,,,,,
+Test Cases/New Test Case 2,Chrome 71.0.3578.98,,2019-01-23 18:11:55,2019-01-23 18:12:03,7.923s,FAILED
+"openBrowser(""www.greendesk.in"")",Chrome 71.0.3578.98,,2019-01-23 18:11:55,2019-01-23 18:12:03,7.885s,FAILED

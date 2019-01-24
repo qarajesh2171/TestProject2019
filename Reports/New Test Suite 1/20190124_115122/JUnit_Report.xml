@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite 1" time="228" tests="4" failures="0" errors="0">
+   <testsuite name="New Test Suite 1" tests="4" failures="0" errors="0" time="228" timestamp="2019-01-24 11:51:24" hostname="viva - DESKTOP-3INA7A3" id="Test Suites/New Test Suite 1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\viva\\git\\TestProject2020\\TestProject2019\\Reports\\New Test Suite 1\\20190124_115122"/>
+         <property name="logFiles" value="C:\\Users\\viva\\git\\TestProject2020\\TestProject2019\\Reports\\New Test Suite 1\\20190124_115122\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="viva - DESKTOP-3INA7A3"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.1.1"/>
+         <property name="browser" value="Chrome 71.0.3578.98"/>
+         <property name="hostAddress" value="192.168.1.48"/>
+         <property name="sessionId" value="db3f9ebfb81ef0b4fc978fe410dc1792"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case 2" classname="Test Cases/New Test Case 2" status="PASSED">
+         <system-out><![CDATA[2019-01-24 11:51:24 - [TEST_CASE][PASSED] - Test Cases/New Test Case 2: Test Cases/New Test Case 2
+
+2019-01-24 11:51:24 - [TEST_STEP][PASSED] - openBrowser("https://greendesk.in/contact_us"): Browser is opened with url: 'https://greendesk.in/contact_us'
+
+2019-01-24 11:51:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-01-24 11:51:25 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-01-24 11:51:32 - [MESSAGE][PASSED] - Browser is opened with url: 'https://greendesk.in/contact_us'
+
+2019-01-24 11:51:32 - [TEST_STEP][NOT_RUN] - click(findTestObject("Page_GreenDesk/img_items in MyBasket")): NOT_RUN: click(findTestObject("Page_GreenDesk/img_items in MyBasket"))
+
+2019-01-24 11:51:32 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Page_GreenDesk/img_items in MyBasket"))
+
+2019-01-24 11:51:32 - [TEST_STEP][NOT_RUN] - click(findTestObject("Page_GreenDesk/a_CONTACT US")): NOT_RUN: click(findTestObject("Page_GreenDesk/a_CONTACT US"))
+
+2019-01-24 11:51:32 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Page_GreenDesk/a_CONTACT US"))
+
+2019-01-24 11:51:32 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_name"), Fullname): Text 'admin' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_name'
+
+2019-01-24 11:51:32 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_name'
+
+2019-01-24 11:51:32 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_pname"), Subject): Text 'admin' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_pname'
+
+2019-01-24 11:51:32 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_pname'
+
+2019-01-24 11:51:32 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_phone"), Contact): Text '8952954319' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_phone'
+
+2019-01-24 11:51:32 - [MESSAGE][PASSED] - Text '8952954319' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_phone'
+
+2019-01-24 11:51:32 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_email"), Email): Text 'test@test.com' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_email'
+
+2019-01-24 11:51:32 - [MESSAGE][PASSED] - Text 'test@test.com' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_email'
+
+2019-01-24 11:51:32 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/textarea_Get in Touch_message"), Message): Text 'test' is set on object 'Object Repository/Page_GreenDesk/textarea_Get in Touch_message'
+
+2019-01-24 11:51:32 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Page_GreenDesk/textarea_Get in Touch_message'
+
+2019-01-24 11:51:32 - [TEST_STEP][PASSED] - click(findTestObject("Page_GreenDesk/input_Get in Touch_btn btn-pri")): Object: 'Object Repository/Page_GreenDesk/input_Get in Touch_btn btn-pri' is clicked on
+
+2019-01-24 11:53:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GreenDesk/input_Get in Touch_btn btn-pri' is clicked on
+
+2019-01-24 11:53:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-01-24 11:53:49 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/New Test Case 2" classname="Test Cases/New Test Case 2" status="PASSED">
+         <system-out><![CDATA[2019-01-24 11:53:49 - [TEST_CASE][PASSED] - Test Cases/New Test Case 2: Test Cases/New Test Case 2
+
+2019-01-24 11:53:49 - [TEST_STEP][PASSED] - openBrowser("https://greendesk.in/contact_us"): Browser is opened with url: 'https://greendesk.in/contact_us'
+
+2019-01-24 11:53:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-01-24 11:53:57 - [MESSAGE][PASSED] - Browser is opened with url: 'https://greendesk.in/contact_us'
+
+2019-01-24 11:53:57 - [TEST_STEP][NOT_RUN] - click(findTestObject("Page_GreenDesk/img_items in MyBasket")): NOT_RUN: click(findTestObject("Page_GreenDesk/img_items in MyBasket"))
+
+2019-01-24 11:53:57 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Page_GreenDesk/img_items in MyBasket"))
+
+2019-01-24 11:53:57 - [TEST_STEP][NOT_RUN] - click(findTestObject("Page_GreenDesk/a_CONTACT US")): NOT_RUN: click(findTestObject("Page_GreenDesk/a_CONTACT US"))
+
+2019-01-24 11:53:57 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Page_GreenDesk/a_CONTACT US"))
+
+2019-01-24 11:53:57 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_name"), Fullname): Text 'admin' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_name'
+
+2019-01-24 11:53:58 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_name'
+
+2019-01-24 11:53:58 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_pname"), Subject): Text 'Admin@123' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_pname'
+
+2019-01-24 11:53:58 - [MESSAGE][PASSED] - Text 'Admin@123' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_pname'
+
+2019-01-24 11:53:58 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_phone"), Contact): Text '8589745896' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_phone'
+
+2019-01-24 11:53:58 - [MESSAGE][PASSED] - Text '8589745896' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_phone'
+
+2019-01-24 11:53:58 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_email"), Email): Text 'testdemo@gmail.com' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_email'
+
+2019-01-24 11:53:58 - [MESSAGE][PASSED] - Text 'testdemo@gmail.com' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_email'
+
+2019-01-24 11:53:58 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/textarea_Get in Touch_message"), Message): Text 'test2' is set on object 'Object Repository/Page_GreenDesk/textarea_Get in Touch_message'
+
+2019-01-24 11:53:58 - [MESSAGE][PASSED] - Text 'test2' is set on object 'Object Repository/Page_GreenDesk/textarea_Get in Touch_message'
+
+2019-01-24 11:53:58 - [TEST_STEP][PASSED] - click(findTestObject("Page_GreenDesk/input_Get in Touch_btn btn-pri")): Object: 'Object Repository/Page_GreenDesk/input_Get in Touch_btn btn-pri' is clicked on
+
+2019-01-24 11:54:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GreenDesk/input_Get in Touch_btn btn-pri' is clicked on
+
+2019-01-24 11:54:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-01-24 11:54:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/New Test Case 2" classname="Test Cases/New Test Case 2" status="PASSED">
+         <system-out><![CDATA[2019-01-24 11:54:08 - [TEST_CASE][PASSED] - Test Cases/New Test Case 2: Test Cases/New Test Case 2
+
+2019-01-24 11:54:08 - [TEST_STEP][PASSED] - openBrowser("https://greendesk.in/contact_us"): Browser is opened with url: 'https://greendesk.in/contact_us'
+
+2019-01-24 11:54:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-01-24 11:54:16 - [MESSAGE][PASSED] - Browser is opened with url: 'https://greendesk.in/contact_us'
+
+2019-01-24 11:54:16 - [TEST_STEP][NOT_RUN] - click(findTestObject("Page_GreenDesk/img_items in MyBasket")): NOT_RUN: click(findTestObject("Page_GreenDesk/img_items in MyBasket"))
+
+2019-01-24 11:54:16 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Page_GreenDesk/img_items in MyBasket"))
+
+2019-01-24 11:54:16 - [TEST_STEP][NOT_RUN] - click(findTestObject("Page_GreenDesk/a_CONTACT US")): NOT_RUN: click(findTestObject("Page_GreenDesk/a_CONTACT US"))
+
+2019-01-24 11:54:16 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Page_GreenDesk/a_CONTACT US"))
+
+2019-01-24 11:54:16 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_name"), Fullname): Text 'admin123' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_name'
+
+2019-01-24 11:54:16 - [MESSAGE][PASSED] - Text 'admin123' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_name'
+
+2019-01-24 11:54:16 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_pname"), Subject): Text 'admin_new' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_pname'
+
+2019-01-24 11:54:17 - [MESSAGE][PASSED] - Text 'admin_new' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_pname'
+
+2019-01-24 11:54:17 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_phone"), Contact): Text '9828954587' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_phone'
+
+2019-01-24 11:54:17 - [MESSAGE][PASSED] - Text '9828954587' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_phone'
+
+2019-01-24 11:54:17 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_email"), Email): Text 'testdemotest@test.com' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_email'
+
+2019-01-24 11:54:17 - [MESSAGE][PASSED] - Text 'testdemotest@test.com' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_email'
+
+2019-01-24 11:54:17 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/textarea_Get in Touch_message"), Message): Text 'test3' is set on object 'Object Repository/Page_GreenDesk/textarea_Get in Touch_message'
+
+2019-01-24 11:54:17 - [MESSAGE][PASSED] - Text 'test3' is set on object 'Object Repository/Page_GreenDesk/textarea_Get in Touch_message'
+
+2019-01-24 11:54:17 - [TEST_STEP][PASSED] - click(findTestObject("Page_GreenDesk/input_Get in Touch_btn btn-pri")): Object: 'Object Repository/Page_GreenDesk/input_Get in Touch_btn btn-pri' is clicked on
+
+2019-01-24 11:54:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GreenDesk/input_Get in Touch_btn btn-pri' is clicked on
+
+2019-01-24 11:54:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-01-24 11:54:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/New Test Case 2" classname="Test Cases/New Test Case 2" status="PASSED">
+         <system-out><![CDATA[2019-01-24 11:54:32 - [TEST_CASE][PASSED] - Test Cases/New Test Case 2: Test Cases/New Test Case 2
+
+2019-01-24 11:54:32 - [TEST_STEP][PASSED] - openBrowser("https://greendesk.in/contact_us"): Browser is opened with url: 'https://greendesk.in/contact_us'
+
+2019-01-24 11:54:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-01-24 11:54:41 - [MESSAGE][PASSED] - Browser is opened with url: 'https://greendesk.in/contact_us'
+
+2019-01-24 11:54:41 - [TEST_STEP][NOT_RUN] - click(findTestObject("Page_GreenDesk/img_items in MyBasket")): NOT_RUN: click(findTestObject("Page_GreenDesk/img_items in MyBasket"))
+
+2019-01-24 11:54:41 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Page_GreenDesk/img_items in MyBasket"))
+
+2019-01-24 11:54:41 - [TEST_STEP][NOT_RUN] - click(findTestObject("Page_GreenDesk/a_CONTACT US")): NOT_RUN: click(findTestObject("Page_GreenDesk/a_CONTACT US"))
+
+2019-01-24 11:54:41 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Page_GreenDesk/a_CONTACT US"))
+
+2019-01-24 11:54:41 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_name"), Fullname): Text 'Rajesh' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_name'
+
+2019-01-24 11:54:41 - [MESSAGE][PASSED] - Text 'Rajesh' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_name'
+
+2019-01-24 11:54:41 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_pname"), Subject): Text 'test' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_pname'
+
+2019-01-24 11:54:42 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_pname'
+
+2019-01-24 11:54:42 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_phone"), Contact): Text '9825878965' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_phone'
+
+2019-01-24 11:54:42 - [MESSAGE][PASSED] - Text '9825878965' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_phone'
+
+2019-01-24 11:54:42 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/input_Get in Touch_email"), Email): Text 'testtoday@gmail.com' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_email'
+
+2019-01-24 11:54:42 - [MESSAGE][PASSED] - Text 'testtoday@gmail.com' is set on object 'Object Repository/Page_GreenDesk/input_Get in Touch_email'
+
+2019-01-24 11:54:42 - [TEST_STEP][PASSED] - setText(findTestObject("Page_GreenDesk/textarea_Get in Touch_message"), Message): Text 'test4' is set on object 'Object Repository/Page_GreenDesk/textarea_Get in Touch_message'
+
+2019-01-24 11:54:42 - [MESSAGE][PASSED] - Text 'test4' is set on object 'Object Repository/Page_GreenDesk/textarea_Get in Touch_message'
+
+2019-01-24 11:54:42 - [TEST_STEP][PASSED] - click(findTestObject("Page_GreenDesk/input_Get in Touch_btn btn-pri")): Object: 'Object Repository/Page_GreenDesk/input_Get in Touch_btn btn-pri' is clicked on
+
+2019-01-24 11:55:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_GreenDesk/input_Get in Touch_btn btn-pri' is clicked on
+
+2019-01-24 11:55:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-01-24 11:55:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-01-24 11:51:24 - [TEST_SUITE][PASSED] - New Test Suite 1: Test Cases/New Test Case 2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

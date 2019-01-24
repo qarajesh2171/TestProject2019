@@ -1,0 +1,50 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite 1,Chrome 71.0.3578.98,,2019-01-24 11:51:24,2019-01-24 11:55:12,3m - 48.670s,PASSED
+,,,,,,
+Test Cases/New Test Case 2,Chrome 71.0.3578.98,,2019-01-24 11:51:24,2019-01-24 11:53:49,2m - 25.347s,PASSED
+"openBrowser(""https://greendesk.in/contact_us"")",Chrome 71.0.3578.98,,2019-01-24 11:51:24,2019-01-24 11:51:32,7.237s,PASSED
+"click(findTestObject(""Page_GreenDesk/img_items in MyBasket""))",Chrome 71.0.3578.98,,2019-01-24 11:51:32,2019-01-24 11:51:32,0.002s,NOT_RUN
+"click(findTestObject(""Page_GreenDesk/a_CONTACT US""))",Chrome 71.0.3578.98,,2019-01-24 11:51:32,2019-01-24 11:51:32,0.001s,NOT_RUN
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_name""), Fullname)",Chrome 71.0.3578.98,,2019-01-24 11:51:32,2019-01-24 11:51:32,0.157s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_pname""), Subject)",Chrome 71.0.3578.98,,2019-01-24 11:51:32,2019-01-24 11:51:32,0.195s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_phone""), Contact)",Chrome 71.0.3578.98,,2019-01-24 11:51:32,2019-01-24 11:51:32,0.173s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_email""), Email)",Chrome 71.0.3578.98,,2019-01-24 11:51:32,2019-01-24 11:51:32,0.172s,PASSED
+"setText(findTestObject(""Page_GreenDesk/textarea_Get in Touch_message""), Message)",Chrome 71.0.3578.98,,2019-01-24 11:51:32,2019-01-24 11:51:32,0.151s,PASSED
+"click(findTestObject(""Page_GreenDesk/input_Get in Touch_btn btn-pri""))",Chrome 71.0.3578.98,,2019-01-24 11:51:32,2019-01-24 11:53:49,2m - 16.229s,PASSED
+closeBrowser(),Chrome 71.0.3578.98,,2019-01-24 11:53:49,2019-01-24 11:53:49,0.626s,PASSED
+,,,,,,
+Test Cases/New Test Case 2,Chrome 71.0.3578.98,,2019-01-24 11:53:49,2019-01-24 11:54:08,18.350s,PASSED
+"openBrowser(""https://greendesk.in/contact_us"")",Chrome 71.0.3578.98,,2019-01-24 11:53:49,2019-01-24 11:53:57,8.094s,PASSED
+"click(findTestObject(""Page_GreenDesk/img_items in MyBasket""))",Chrome 71.0.3578.98,,2019-01-24 11:53:57,2019-01-24 11:53:57,0.002s,NOT_RUN
+"click(findTestObject(""Page_GreenDesk/a_CONTACT US""))",Chrome 71.0.3578.98,,2019-01-24 11:53:57,2019-01-24 11:53:57,0.001s,NOT_RUN
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_name""), Fullname)",Chrome 71.0.3578.98,,2019-01-24 11:53:57,2019-01-24 11:53:58,0.115s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_pname""), Subject)",Chrome 71.0.3578.98,,2019-01-24 11:53:58,2019-01-24 11:53:58,0.144s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_phone""), Contact)",Chrome 71.0.3578.98,,2019-01-24 11:53:58,2019-01-24 11:53:58,0.144s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_email""), Email)",Chrome 71.0.3578.98,,2019-01-24 11:53:58,2019-01-24 11:53:58,0.257s,PASSED
+"setText(findTestObject(""Page_GreenDesk/textarea_Get in Touch_message""), Message)",Chrome 71.0.3578.98,,2019-01-24 11:53:58,2019-01-24 11:53:58,0.148s,PASSED
+"click(findTestObject(""Page_GreenDesk/input_Get in Touch_btn btn-pri""))",Chrome 71.0.3578.98,,2019-01-24 11:53:58,2019-01-24 11:54:07,8.764s,PASSED
+closeBrowser(),Chrome 71.0.3578.98,,2019-01-24 11:54:07,2019-01-24 11:54:08,0.634s,PASSED
+,,,,,,
+Test Cases/New Test Case 2,Chrome 71.0.3578.98,,2019-01-24 11:54:08,2019-01-24 11:54:32,24.153s,PASSED
+"openBrowser(""https://greendesk.in/contact_us"")",Chrome 71.0.3578.98,,2019-01-24 11:54:08,2019-01-24 11:54:16,8.535s,PASSED
+"click(findTestObject(""Page_GreenDesk/img_items in MyBasket""))",Chrome 71.0.3578.98,,2019-01-24 11:54:16,2019-01-24 11:54:16,0.001s,NOT_RUN
+"click(findTestObject(""Page_GreenDesk/a_CONTACT US""))",Chrome 71.0.3578.98,,2019-01-24 11:54:16,2019-01-24 11:54:16,0.001s,NOT_RUN
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_name""), Fullname)",Chrome 71.0.3578.98,,2019-01-24 11:54:16,2019-01-24 11:54:16,0.132s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_pname""), Subject)",Chrome 71.0.3578.98,,2019-01-24 11:54:16,2019-01-24 11:54:17,0.160s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_phone""), Contact)",Chrome 71.0.3578.98,,2019-01-24 11:54:17,2019-01-24 11:54:17,0.115s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_email""), Email)",Chrome 71.0.3578.98,,2019-01-24 11:54:17,2019-01-24 11:54:17,0.166s,PASSED
+"setText(findTestObject(""Page_GreenDesk/textarea_Get in Touch_message""), Message)",Chrome 71.0.3578.98,,2019-01-24 11:54:17,2019-01-24 11:54:17,0.102s,PASSED
+"click(findTestObject(""Page_GreenDesk/input_Get in Touch_btn btn-pri""))",Chrome 71.0.3578.98,,2019-01-24 11:54:17,2019-01-24 11:54:31,14.267s,PASSED
+closeBrowser(),Chrome 71.0.3578.98,,2019-01-24 11:54:31,2019-01-24 11:54:32,0.615s,PASSED
+,,,,,,
+Test Cases/New Test Case 2,Chrome 71.0.3578.98,,2019-01-24 11:54:32,2019-01-24 11:55:12,40.399s,PASSED
+"openBrowser(""https://greendesk.in/contact_us"")",Chrome 71.0.3578.98,,2019-01-24 11:54:32,2019-01-24 11:54:41,9.480s,PASSED
+"click(findTestObject(""Page_GreenDesk/img_items in MyBasket""))",Chrome 71.0.3578.98,,2019-01-24 11:54:41,2019-01-24 11:54:41,0.001s,NOT_RUN
+"click(findTestObject(""Page_GreenDesk/a_CONTACT US""))",Chrome 71.0.3578.98,,2019-01-24 11:54:41,2019-01-24 11:54:41,0.001s,NOT_RUN
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_name""), Fullname)",Chrome 71.0.3578.98,,2019-01-24 11:54:41,2019-01-24 11:54:41,0.127s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_pname""), Subject)",Chrome 71.0.3578.98,,2019-01-24 11:54:41,2019-01-24 11:54:42,0.106s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_phone""), Contact)",Chrome 71.0.3578.98,,2019-01-24 11:54:42,2019-01-24 11:54:42,0.116s,PASSED
+"setText(findTestObject(""Page_GreenDesk/input_Get in Touch_email""), Email)",Chrome 71.0.3578.98,,2019-01-24 11:54:42,2019-01-24 11:54:42,0.145s,PASSED
+"setText(findTestObject(""Page_GreenDesk/textarea_Get in Touch_message""), Message)",Chrome 71.0.3578.98,,2019-01-24 11:54:42,2019-01-24 11:54:42,0.099s,PASSED
+"click(findTestObject(""Page_GreenDesk/input_Get in Touch_btn btn-pri""))",Chrome 71.0.3578.98,,2019-01-24 11:54:42,2019-01-24 11:55:12,29.663s,PASSED
+closeBrowser(),Chrome 71.0.3578.98,,2019-01-24 11:55:12,2019-01-24 11:55:12,0.629s,PASSED

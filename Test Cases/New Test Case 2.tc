@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1562ed56-7d4a-4a63-b10f-de58a3d36ca9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6f50b6d4-f65d-4fc4-b197-472cc1832c42</id>
+      <masked>false</masked>
+      <name>Fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6bd9cfaa-2527-474d-86f8-55327348533a</id>
+      <masked>false</masked>
+      <name>Subject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a8dbf269-93ec-4d93-92ef-7863b5f76ed2</id>
+      <masked>false</masked>
+      <name>Contact</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7a196c5-3b11-4ba1-83da-3c073e0e58b0</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>462c1725-f09d-4860-9400-b4fec8e492dc</id>
+      <masked>false</masked>
+      <name>Message</name>
+   </variable>
+</TestCaseEntity>

@@ -13,7 +13,52 @@
    <testCaseLink>
       <guid>53563777-876a-4bc0-b6ad-7077293ff04d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/New Test Case 1</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>84b569c7-5799-405e-9d52-6428677256ad</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Test Case 2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>40f9b211-fdb6-4cbd-97be-6fdb373f64d3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/New Test Data1</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>40f9b211-fdb6-4cbd-97be-6fdb373f64d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Fullname</value>
+         <variableId>6f50b6d4-f65d-4fc4-b197-472cc1832c42</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>40f9b211-fdb6-4cbd-97be-6fdb373f64d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Subject</value>
+         <variableId>6bd9cfaa-2527-474d-86f8-55327348533a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>40f9b211-fdb6-4cbd-97be-6fdb373f64d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Contact</value>
+         <variableId>a8dbf269-93ec-4d93-92ef-7863b5f76ed2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>40f9b211-fdb6-4cbd-97be-6fdb373f64d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>d7a196c5-3b11-4ba1-83da-3c073e0e58b0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>40f9b211-fdb6-4cbd-97be-6fdb373f64d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Message</value>
+         <variableId>462c1725-f09d-4860-9400-b4fec8e492dc</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
